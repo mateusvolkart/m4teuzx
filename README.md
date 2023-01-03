@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Mateus and my nickname is "Barne"!
+## My name is Mateus!
 
 - 🌱 I’m currently studying a high school computer technician
 - 📫 How to reach me: Volkartmateus@gmail.com
