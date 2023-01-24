@@ -2,7 +2,7 @@
 ## My name is Mateus!
 
 - 🌱 I’m currently studying a high school computer technician
-- 📫 How to reach me: Volkartmateus@gmail.com
+- 📫 How to reach me: eumateusvolkart@gmail.com
 - 😄 Pronouns: he/him
 
 ## Tools and Technologies
