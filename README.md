@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Mateus!
 
-- 🌱 Estou atualmente cursando um ensino técnico em informática
+- 🌱 Estou atualmente cursando um curso técnico em informática
 - 📫 Como falar comigo: eumateusvolkart@gmail.com
 
 ## Tools and Technologies
