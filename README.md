@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Mateus!
 
-- 🌱 I’m currently studying a high school computer technician
-- 📫 How to reach me: eumateusvolkart@gmail.com
+- 🌱 estou atualmente cursando um ensino técnico em informática
+- 📫 como falar comigo: eumateusvolkart@gmail.com
 - 😄 Pronouns: he/him
 
 ## Tools and Technologies
