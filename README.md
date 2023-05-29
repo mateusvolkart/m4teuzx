@@ -1,9 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Mateus!
 
-- 🌱 estou atualmente cursando um ensino técnico em informática
-- 📫 como falar comigo: eumateusvolkart@gmail.com
-- 😄 Pronouns: he/him
+- 🌱 Estou atualmente cursando um ensino técnico em informática
+- 📫 Como falar comigo: eumateusvolkart@gmail.com
 
 ## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> 
