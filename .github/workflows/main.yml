@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # execute every 12 hours
+    - cron: "0 */12 * * *" # executa a cada 12 horas (UTC)
   workflow_dispatch:
   push:
     branches:
@@ -18,6 +18,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Ensure output branch exists
+        run: |
+          git fetch origin
+          if ! git show-ref --verify --quiet refs/remotes/origin/output; then
+            echo "Creating output branch..."
+            git checkout --orphan output
+            git rm -rf .
+            git commit --allow-empty -m "Initial output branch"
+            git push origin output
+            git checkout main
+          fi
 
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
